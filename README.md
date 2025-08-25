@@ -1,4 +1,4 @@
-# 🚀 projetoWeb
+# 🚀 projeto Back-End
 
 > **Backend de um projeto de treino**, desenvolvido com **orientação de um professor especialista**.  
 > Criado com o objetivo de **aprimorar habilidades** em desenvolvimento backend utilizando **Java, Spring Boot** e bancos de dados **H2** (memória) e **PostgreSQL** (persistência real).
