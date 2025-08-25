@@ -48,10 +48,10 @@ O foco foi estudar e aplicar conceitos importantes do desenvolvimento Java moder
 
 ```bash
 # Clonar repositório
-git clone https://github.com/seu-usuario/projetoWeb.git
+git clone https://github.com/seu-usuario/projetoBack-End.git
 
 # Entrar na pasta do projeto
-cd projetoWeb
+cd projetoBack-End
 
 # Executar
 mvn clean spring-boot:run
